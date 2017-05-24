@@ -1,0 +1,190 @@
+/*@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville|Racing+Sans+One|Satisfy);*/
+
+body {
+    font-size: 200%;
+    text-align: center;
+    font-family: Racing Sans One, arial, sans-serif;
+}
+
+p {
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    text-align: left;
+}
+
+pre {
+    text-align: left;
+}
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+}
+
+tt {
+    font-size: 125;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    font-family: serif;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    padding-left: 0.3em;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+div.codeslide {
+    width: 1300px;
+    height: 820px;
+    min-width: 1300px;
+    min-height: 820px;
+    padding: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.middle {
+    position: relative;
+    top: 20%;
+}
+
+div.step {
+    background-color: #fdf6e3;
+    width: 1300px;
+    height: 820px;
+    min-width: 1300px;
+    min-height: 820px;
+    opacity: 1.0;
+    transition: opacity linear 1s;
+}
+
+#step-1 h1,#step-2 h1 {
+    position: relative;
+    top: 30%;
+    font-size: 100px;
+}
+#step-2 h2 {
+    position: relative;
+    top: 50%;
+    font-size: 80px;
+}
+div.step:not(.active).inactivehidden {
+    opacity: 0.0;
+}
+
+div.step:not(.active) {
+    opacity: 0.9;
+}
+
+div.laststep {
+    width: auto;
+    height: auto;
+    min-width: auto;
+    min-height: auto;
+    padding: 0;
+}
+
+div.coderight > pre {
+    float: right;
+}
+
+/* Background colour replacement, original image not transparent */
+#step-6 img {
+    background: url(atomic.png);
+    width: 220px;
+    height: 215px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+
+#step-7 img { /* 354 x 360 */
+    background: url(trustworthy.png);
+    width: 220px;
+    height: 215px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#step-8 img { /* 524 * 698 */
+    background: url(readable.png);
+    width: 220px;
+    height: 294px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#step-12 img { /* 398 x 400 */
+    background: url(dummy.png);
+    width: 220px;
+    height: 221px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#step-13 img { /* 376 x 450 */
+    background: url(stub.png);
+    width: 220px;
+    height: 263px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#step-14 img { /* 484 x 398 */
+    background: url(fake.png);
+    width: 220px;
+    height: 180px;
+    padding-left: 220px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#step-15 img { /* 732 x 640 */
+    position: relative;
+    top: 10%;
+    background: url(spy.png);
+    width: 732px;
+    height: 640px;
+    padding-left: 732px;
+    box-sizing: border-box;
+    background-color: #fdf6e3;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+
+.hidden {
+    display: none;
+}

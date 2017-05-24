@@ -1,0 +1,4 @@
+.. code:: php
+
+    <?php
+    CODE
