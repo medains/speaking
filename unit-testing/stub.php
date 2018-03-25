@@ -1,9 +1,16 @@
-.. code:: php
+<?php
+class ClassUnderTest {
 
-    <?php
-    class AtomicCounterExample extends PHPUnit_Framework_TestCase {
-        public function testFirst() {
-        }
-        public function testSecond() {
-        }
+    public function __construct($auth) {
+        $this->auth = $auth;
     }
+
+    public function authenticatedAction($authToken) {
+        $authenticated = $this->auth->checkToken($authToken);
+
+        if(!$authenticated) {
+            throw NotAuthException();
+        }
+        return $this->protectedMethod();
+    }
+}
