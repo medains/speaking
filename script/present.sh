@@ -26,7 +26,15 @@ fi
 
 pushd $DIR
 
-$CMD index.md --preprocessor ${SCRIPT_PATH}/preprocess.js $*
+ARGS=$*
+
+SCRIPTS=""
+if [ -d scripts ]; then
+    SCRIPTS=$(find scripts -type f | tr '\n' ',' )
+    ARGS="${ARGS} --scripts ${SCRIPTS// /}"
+fi
+
+$CMD index.md --preprocessor ${SCRIPT_PATH}/preprocess.js $ARGS
 #$CMD index.md -$*
 
 popd
