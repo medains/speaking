@@ -1,0 +1,26 @@
+<svg viewBox="150 100 300 250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_15" transform="rotate(89.85807037353516 334.4980163574218,164.67959594726562) ">
+   <ellipse ry="41.5" rx="28" id="svg_1" cy="174" cx="334.5" stroke-width="1.5" stroke="#000" fill="#7fff00"/>
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="156.74802" x2="359.85051" y1="156.74802" x1="308.4982" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="156.99321" x2="334.24788" y1="215.49729" x1="334.24788" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <ellipse ry="4.62494" rx="4.62494" id="svg_5" cy="147.12314" cx="325.37299" stroke-width="1.5" stroke="#000" fill="#ff5d00"/>
+   <ellipse ry="4.62494" rx="4.62494" id="svg_6" cy="146.87314" cx="343.62276" stroke-width="1.5" stroke="#000" fill="#ff5d00"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="173.24781" x2="372.75959" y1="173.24781" x1="362.49753" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="139.58137" x2="365.91435" y1="148.74812" x1="356.7476" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="207.89437" x2="366.14447" y1="198.9975" x1="357.2476" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="173.74781" x2="296.23645" y1="173.74781" x1="306.74822" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="139.48396" x2="303.48398" y1="148.24812" x1="312.24815" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="207.76253" x2="304.48311" y1="199.49749" x1="312.74814" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path transform="rotate(51.240570068359375 328.3731689453125,123.69183349609376) " id="svg_13" d="m321.90365,118.01036c-7.64718,11.65176 15.00048,12.00039 14.50974,11.00674" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path stroke="#000" transform="rotate(127.94864654541016 340.6328735351563,124.1661376953125) " id="svg_14" d="m334.16337,129.23386c-7.64717,-10.39307 15.00049,-10.70404 14.50974,-9.81773" stroke-width="1.5" fill="none"/>
+  </g>
+  <g id="svg_54">
+   <ellipse fill="#ffffff" stroke="#000" stroke-width="2" cx="275" cy="217" rx="73" ry="30" id="svg_53"/>
+   <ellipse fill="#ffffff" stroke="#000" stroke-width="2" cx="275" cy="208" rx="73" ry="30" id="svg_51"/>
+   <ellipse fill="#ffffff" stroke="#000" stroke-width="2" cx="275" cy="200" id="svg_35" rx="73" ry="30"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="276.77072" y="206.98236" id="svg_27" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">Dependency</text>
+  </g>
+ </g>
+</svg>

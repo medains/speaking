@@ -1,0 +1,14 @@
+@media screen {
+    .printOnly {
+        display: none;
+    }
+    .imageHighlight {
+        color: #eee8d5 !important;
+    }
+}
+@media print {
+    .printOnly {}
+    .notPrint {
+        background-image: none !important;
+    }
+}

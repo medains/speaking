@@ -1,0 +1,28 @@
+<svg viewBox="150 100 300 250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_15" transform="rotate(-15.597929954528809 288.4980163574218,163.67959594726548) ">
+   <ellipse ry="41.5" rx="28" id="svg_1" cy="173" cx="288.5" stroke-width="1.5" stroke="#000" fill="#7fff00"/>
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="155.74802" x2="313.85051" y1="155.74802" x1="262.4982" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="155.99321" x2="288.24788" y1="214.49729" x1="288.24788" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <ellipse ry="4.62494" rx="4.62494" id="svg_5" cy="146.12314" cx="279.37299" stroke-width="1.5" stroke="#000" fill="#ff5d00"/>
+   <ellipse ry="4.62494" rx="4.62494" id="svg_6" cy="145.87314" cx="297.62276" stroke-width="1.5" stroke="#000" fill="#ff5d00"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="172.24781" x2="326.75959" y1="172.24781" x1="316.49753" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="138.58137" x2="319.91435" y1="147.74812" x1="310.7476" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="206.89437" x2="320.14447" y1="197.9975" x1="311.2476" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="172.74781" x2="250.23645" y1="172.74781" x1="260.74822" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="138.48396" x2="257.48398" y1="147.24812" x1="266.24815" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="206.76253" x2="258.48311" y1="198.49749" x1="266.74814" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path transform="rotate(51.240570068359375 282.3731689453125,122.69183349609375) " id="svg_13" d="m275.90365,117.01036c-7.64718,11.65176 15.00048,12.00039 14.50974,11.00674" stroke-width="1.5" stroke="#000" fill="none"/>
+   <path stroke="#000" transform="rotate(127.94864654541016 294.63287353515625,123.1661376953125) " id="svg_14" d="m288.16337,128.23386c-7.64717,-10.39307 15.00049,-10.70404 14.50974,-9.81773" stroke-width="1.5" fill="none"/>
+  </g>
+  <g id="svg_46">
+   <rect fill="#ffffff" stroke="#000" stroke-width="1.5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="211.5" y="162.5" width="149" height="108" id="svg_16"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="287.5" y="236.5" id="svg_17" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">Interface</text>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="212" y1="179" x2="361.00084" y2="179" id="svg_18"/>
+   <rect fill="none" stroke="#000" stroke-width="1.5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x="215" y="165.5" width="11" height="8.5" id="svg_19"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="347" y1="165" x2="357.5" y2="175.5" id="svg_20"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="356.5" y1="165.5" x2="346.94751" y2="175.05249" id="svg_21"/>
+  </g>
+ </g>
+</svg>

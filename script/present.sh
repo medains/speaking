@@ -31,10 +31,16 @@ ARGS=$*
 SCRIPTS=""
 if [ -d scripts ]; then
     SCRIPTS=$(find scripts -type f | tr '\n' ',' )
+    SCRIPTS=${SCRIPTS::-1}
     ARGS="${ARGS} --scripts ${SCRIPTS// /}"
 fi
+if [ -d css ]; then
+    CSS=$(find css -type f | tr '\n' ',' )
+    CSS=${CSS::-1}
+    ARGS="${ARGS} --css ${CSS// /}"
+fi
 
+echo $CMD index.md --preprocessor ${SCRIPT_PATH}/preprocess.js $ARGS
 $CMD index.md --preprocessor ${SCRIPT_PATH}/preprocess.js $ARGS
-#$CMD index.md -$*
 
 popd

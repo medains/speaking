@@ -1,0 +1,24 @@
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+<svg viewBox="20 70 300 250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(118 170.49801635742188,208.67959594726562) " id="svg_15">
+   <ellipse fill="#7fff00" stroke="#000" stroke-width="1.5" cx="170.5" cy="218" id="svg_1" rx="28" ry="41.5"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="144.4982" y1="200.74802" x2="195.85051" y2="200.74802" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="170.24788" y1="259.49729" x2="170.24788" y2="200.99321" id="svg_4" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+   <ellipse fill="#ff5d00" stroke="#000" stroke-width="1.5" cx="161.37299" cy="191.12314" id="svg_5" rx="4.62494" ry="4.62494"/>
+   <ellipse fill="#ff5d00" stroke="#000" stroke-width="1.5" cx="179.62276" cy="190.87314" id="svg_6" rx="4.62494" ry="4.62494"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="198.49753" y1="217.24781" x2="208.75959" y2="217.24781" id="svg_7" stroke-linejoin="null" stroke-linecap="null"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="192.7476" y1="192.74812" x2="201.91435" y2="183.58137" id="svg_8" stroke-linejoin="null" stroke-linecap="null"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="193.2476" y1="242.9975" x2="202.14447" y2="251.89437" id="svg_9" stroke-linejoin="null" stroke-linecap="null"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="142.74822" y1="217.74781" x2="132.23645" y2="217.74781" id="svg_10" stroke-linejoin="null" stroke-linecap="null"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="148.24815" y1="192.24812" x2="139.48398" y2="183.48396" id="svg_11" stroke-linejoin="null" stroke-linecap="null"/>
+   <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="148.74814" y1="243.49749" x2="140.48311" y2="251.76253" id="svg_12" stroke-linejoin="null" stroke-linecap="null"/>
+   <path fill="none" stroke="#000" stroke-width="1.5" d="m157.90365,162.01036c-7.64718,11.65176 15.00048,12.00039 14.50974,11.00674" id="svg_13" transform="rotate(51.240570068359375 164.37316894531244,167.69183349609375) "/>
+   <path fill="none" stroke-width="1.5" d="m170.16337,173.23386c-7.64717,-10.39307 15.00049,-10.70404 14.50974,-9.81773" id="svg_14" transform="rotate(127.94864654541016 176.63287353515622,168.16613769531247) " stroke="#000"/>
+  </g>
+  <path fill="#000000" stroke="#000" stroke-width="1.5" stroke-opacity="null" d="m84.0825,207.46501l29.25,-100l97.50001,0l29.24999,100l-156.00001,0l0.00001,0z" id="svg_17"/>
+  <ellipse fill="#000000" stroke="#000" stroke-width="1.5" stroke-opacity="null" cx="162" cy="93" id="svg_18" rx="17.5" ry="14"/>
+  <text fill="#ffffff" stroke="#000" stroke-width="0" stroke-opacity="null" x="117.5" y="175" id="svg_20" font-size="52" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">10T</text>
+ </g>
+</svg>
