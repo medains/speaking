@@ -106,7 +106,7 @@ statically linked binaries (common golang pattern)
 alpine linux (minimal, built for docker, not glibc!), distroless (exceptionally minimal, even ls/cat etc.. not present)
 ubuntu/debian/centos all pretty big images - but if you need glibc....
 
-Other trusted images in hub.docker.com (or artifactory)
+Other trusted images in hub.docker.com
 
 ---
 
@@ -160,8 +160,6 @@ Managed hosts file and resolve.conf
 ## So what base images are there?
 
 https://hub.docker.com
-
-artifactory.dataengineering.apps.hmrci:8001/dedgbase/dedg-selinux <!-- .element class="fragment" -->
 
 Notes:
 Beware - anyone can publish images: look for official, certified, verified publisher
